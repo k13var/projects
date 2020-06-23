@@ -20,7 +20,9 @@ Streamlit app to predict survival rate on RMS Titanic.
 
 ## Tools, modules and techniques
 **Python - web development:**
+
 Streamlit
 
 **Python - machine learning**
+
 pandas | numpy | scikit-learn 
